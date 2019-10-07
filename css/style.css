@@ -334,7 +334,7 @@ figure figcaption {
   min-height: 440px;
   padding: 2.5em;
   position: relative;
-	background: #f2f3f780;
+	background: #ffffffa3;
 }
 @media screen and (max-width: 768px) {
   #colorlib-hero .flexslider .slider-text > .slider-text-inner {
